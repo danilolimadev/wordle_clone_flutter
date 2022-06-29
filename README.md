@@ -9,6 +9,8 @@ Projeto onde foi criado um clone do jogo Wordle para mobile, web e desktop.
 |<img src="screenshots/screenshot1.jpeg" width="400">|<img src="screenshots/screenshot2.jpeg" width="400">|
 | Web - Home Page | Web - Home Page |
 |<img src="screenshots/screenshot3.jpeg" width="400">|<img src="screenshots/screenshot4.jpeg" width="400">|
+| Desktop - Home Page | Desktop - Home Page |
+|<img src="screenshots/screenshot5.jpeg" width="400">|<img src="screenshots/screenshot6.jpeg" width="400">|
 
 ## 🚀 Começando
 
